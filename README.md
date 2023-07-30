@@ -3,7 +3,7 @@ Repositório criado para o armazenamento do código desenvolvido  durante o trei
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Automatização do cadastro dde produtos.
+- `Funcionalidade 1`: Automatização do cadastro de produtos.
 
 #Tecnologias utilizadas
 - Python
